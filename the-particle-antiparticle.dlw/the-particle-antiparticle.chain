@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1779
+slug  : the-particle-antiparticle
+seal  : e5331447d4078273a563fbdd0df09dc4070655e51b1c286ca30e5734f97a2654
+prev  : 39785abb6d288f55261c1c74693b766c040285daba8d981b1ac0f15a1e3655ab
+link  : afd20ea1c2efc8a6ae3e1950ac46262a692e6b9a7e07d4f38d8a92eddace5e90
+head  : 7d7dd8d84b8a0c9d91ae62d609ad4f91d3c14ba37cf96a65616383c24e9859bb
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
